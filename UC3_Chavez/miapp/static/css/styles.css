@@ -7,14 +7,14 @@
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #ffffff;
 }
 
 /* Estilos de cabecera */
 header {
     width: auto;
     height: 140px;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     margin-left: 40px;
     margin: 0 auto;
 }
@@ -52,7 +52,7 @@ nav{
     margin: 0 auto;
     background-color: #f5b335;
     border: 1px solid #f5b335;
-    box-shadow: 0px 22px 22px gray;
+    box-shadow: 0px 22px 22px #ffffff;
     font-size: 15px;
     }
     /*Zona de enlaces*/

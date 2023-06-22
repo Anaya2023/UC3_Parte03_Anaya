@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+
+{% block title %}
+    Primeros números primos
+
+{% block content %}
+
+<h1>Primeros números primos:</h1>
+<ul>
+    {% for primos in primos %}
+<li>{{ primos }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
+
+
